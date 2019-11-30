@@ -742,6 +742,10 @@
   color: $color-accent;
 }
 
+a:hover{
+  color: $color-accent !important;
+}
+
 .widget-recent-posts ul {
   list-style: none;
   padding: 0;

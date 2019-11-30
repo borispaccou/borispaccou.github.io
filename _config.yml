@@ -1,5 +1,5 @@
 # Site setings
-name: 'Boris Paccou - {{ Hello, World! }}'
+name: '{{ Hello, World! }}'
 description:
 meta_description: 'Boris Paccou'
 logo: 'assets/images/logo.png'
@@ -19,7 +19,7 @@ author:
   image: 'author.png'
   greetings: 'Hello, world!'
   description: "My name is Boris. I'm a full-stack developer, entrepreneur and author.<br>I am living between Lyon, Fr & Dublin, Irl. <br> Welcome to my blog :-)."
-  bio: ''
+  bio: 'Boris is an full-stack developer, entrepreneur and author. <br> He is one of the founder of <a href="https://www.nova-initiative.com" target="_blank">nova-initiative</a>, a software development company focused on providing top-notch tailor-made solutions.'
 
 # Contact form setings
 email: xqkapnva
