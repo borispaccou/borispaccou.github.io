@@ -1,49 +1,51 @@
 # Site setings
-name: 'Boris Paccou - '
-description: 'Simple personnal blog - Nothing too fancy'
+name: 'Boris Paccou - {{ Hello, World! }}'
+description:
 meta_description: 'Boris Paccou'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://borispaccou.github.io/
 disqus: 'borispaccou'
-mailchimp_url: ''
+mailchimp_url: 'https://gmail.us4.list-manage.com/subscribe/post?u=aa0d600faea32f6f761b9a101&amp;id=2e4e1aafea'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: 'UA-153643288-1'
 
 
 # Author
 author:
   name: 'Boris Paccou'
   image: 'author.png'
-  greetings: 'Hi there!'
-  description: "My name is Boris. I'm a freelance front-end developer, entrepreneur and author based in Lyon, Fr. It’s nice to meet you."
-  bio: 'My bio - todo'
+  greetings: 'Hello, world!'
+  description: "My name is Boris. I'm a full-stack developer, entrepreneur and author.<br>I am living between Lyon, Fr & Dublin, Irl. <br> Welcome to my blog :-)."
+  bio: ''
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Texte de contact !"
+email: xqkapnva
+contact_page_description: "You can use the contact form below to get in touch."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 twitter:
 facebook:
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
+github:
+codepen:
+dribbble:
+medium:
+instagram:
+pinterest:
+linkedin: 'boris-paccou-31511772'
+producthunt:
 
 # Navigation
 navigation:
+  - text: Latest articles
+    url: /#latest-articles
+  - text: Awesome links
+    url: /awesome-links
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
   - text: Contact Me
     url: /contact
 

@@ -3,9 +3,9 @@ layout: post
 title:  "{{ Hello, world ! }}"
 tags: [ Life ]
 featured_image_thumbnail: assets/images/posts/2018/11_thumbnail.jpg
-featured_image: assets/images/posts/2018/11.jpg
+featured_image: assets/images/posts/2019/typewriter-801921_640.jpg
 featured: true
-
+hidden: true
 ---
 
 Un blog ? Pourquoi ? Pour qui ? ...
