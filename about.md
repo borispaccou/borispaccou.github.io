@@ -4,7 +4,7 @@ title: About Me
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Boris Paccou is a developer, entrepreneur and problem solver from Lyon, France.
+Boris Paccou is a developer, entrepreneur and problem solver living between Lyon, France and Dublin, Ireland.
 
 His long story with computing starts like many of the millennial with his first family computer.
 After a few years of **[TI82](https://en.wikipedia.org/wiki/TI-82)** _*programing*_, Dreamweaver _*designing*_ and PHP _*tryharding*_, he decided to fully commit to the software industry.
