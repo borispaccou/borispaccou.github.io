@@ -5,15 +5,13 @@ tags: [ Life ]
 featured_image_thumbnail: assets/images/posts/2019/typewriter-801921_640_tn.jpg
 featured_image: assets/images/posts/2019/typewriter-801921_640_2.jpg
 featured: true
-hidden: true
+hidden: false
 ---
+## Who am i ?
 
-Un blog ? Pourquoi ? Pour qui ? ...
 
-## What is Jekyll?
+## Why blogging and who am i writing for ?
 
-Jekyll is a simple, blog-aware, static site generator.
+## Blogging goal ?
 
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
-
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
+## How can you be involved
