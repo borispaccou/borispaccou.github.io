@@ -3,24 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0db2d7a9-8779-4f56-9e5b-9adcc85f7b4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-12-a-week-with-the-apple-watch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-07-advanced-markdown-tips.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-10-what-is-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-12-options-for-creating-new-site-with-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-12-react-conferences-to-attend-in-2018.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-17-choosing-the-best-front-end-framework.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-02-working-from-home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-15-how-to-start-learning-blockchain-development.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-12-javascript-design-patterns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-Installing-multiple-versions-of-node-js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-30-hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-30-hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo_hold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-links.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575114261640</updated>
-      <workItem from="1575114262810" duration="8802000" />
+      <workItem from="1575114262810" duration="9695000" />
     </task>
     <servers />
   </component>
